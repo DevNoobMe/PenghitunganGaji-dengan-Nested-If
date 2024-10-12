@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1728733535 source:c:\users\pc\videos\materi\penghitungangaji\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1728734748 source:c:\users\pc\videos\materi\penghitungangaji dengan nested if\main.c
+	<stdio.h>
+	<stdlib.h>
+
